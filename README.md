@@ -17,5 +17,5 @@ How it works
 You simply save Videos Azarosos.py in your Videos directory and execute it from terminal:
 `	python2 Videos\ Azarosos.py`
 
-Creado por Alejandro Fábrega (github.com/Alitux) y levemente modificado por Belén Peluffo (github.com/NyxProtogenoi).
+<sub>Creado por Alejandro Fábrega (github.com/Alitux) y levemente modificado por Belén Peluffo (github.com/NyxProtogenoi).
 Created by Alejandro Fábrega (github.com/Alitux) and slightly modified by Belén Peluffo (github.com/NyxProtogenoi).
