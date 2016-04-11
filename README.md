@@ -9,13 +9,13 @@ An application that chooses randomly a movie -or any kind of video- for you. Mad
 
 Cómo funciona
 =============
-Simplemente guardás el archivo Videos Azarosos.py en tu carpeta de videos y lo ejecutás desde la terminal:
-	'python2 Videos\ Azarosos.py'
+Simplemente guardás el archivo Videos Azarosos.py en tu carpeta de videos y lo ejecutás desde la terminal: 
+	`python2 Videos\ Azarosos.py`
 
 How it works
 ============
 You simply save Videos Azarosos.py in your Videos directory and execute it from terminal:
-	'python2 Videos\ Azarosos.py'
+	`python2 Videos\ Azarosos.py`
 
 Creado por Alejandro Fábrega (github.com/Alitux) y levemente modificado por Belén Peluffo (github.com/NyxProtogenoi).
 Created by Alejandro Fábrega (github.com/Alitux) and slightly modified by Belén Peluffo (github.com/NyxProtogenoi).
